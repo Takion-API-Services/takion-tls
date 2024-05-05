@@ -1,0 +1,9 @@
+asyncio==3.4.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+colorama==0.4.6
+idna==3.7
+requests==2.31.0
+resilient-caller==0.2.2
+tasks-logger==0.1.0
+urllib3==2.2.1

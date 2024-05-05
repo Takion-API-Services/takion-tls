@@ -1,0 +1,10 @@
+venv/
+venv_prod/
+__pycache__/
+dependencies/
+*.json
+test/
+*.egg-info/
+dist/
+bin/
+build/

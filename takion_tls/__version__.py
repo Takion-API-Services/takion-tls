@@ -1,0 +1,5 @@
+__title__ = "takion_tls"
+__description__ = "A Python TLS client for auto-updating, customizable secure connections, ideal for advanced web scraping and reverse engineering. By TakionAPI"
+__version__ = "0.1.0"
+__author__ = "GlizzyKingDreko"
+__license__ = "MIT"
